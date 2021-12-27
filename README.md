@@ -8,3 +8,7 @@ https://aws.amazon.com/training/digital/aws-cloud-practitioner-essentials/
 # Training Completed
 
 ![Amazon Training](amazon-training.png)
+
+# AWS Certificate 😎
+
+![AWS Certificate](aws-certificate.png)
