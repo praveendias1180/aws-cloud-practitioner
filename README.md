@@ -5,3 +5,6 @@ https://aws.amazon.com/training/digital/aws-cloud-practitioner-essentials/
 # 100% 🥇 🥈 🥉
 ![AWS 100 Percent](aws-cpe-100.png)
 
+# Training Completed
+
+![Amazon Training](amazon-training.png)
